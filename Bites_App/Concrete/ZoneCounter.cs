@@ -71,7 +71,7 @@ namespace Erkan_GOK
                         result[i, j] = 1; // --> 1 Bölgelere Karşılık gelmektedir.
                     
                 }
-                Console.WriteLine();
+              
             }            
             return countIslands(result, width,height);
             
